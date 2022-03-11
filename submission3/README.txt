@@ -1,8 +1,8 @@
 Link to unlisted youtube video:
-
+https://youtu.be/8SIH7h3gZ1o
 
 Link to the Concept Map:
-
+https://github.com/errhythm/CSE424/blob/main/submission3/Concept%20Map.pdf (https://drive.google.com/file/d/1ACxoQ_ZvsuY55xtVU3wox3JdIXH8VcVo/view?usp=sharing)
 
 Name, Author, Edition, Year and Publisher of the Book:
 Speech and Language Processing, Jurafsky, 3rd Ed, 2022, Pearson
