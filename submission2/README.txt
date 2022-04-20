@@ -14,12 +14,12 @@ Group Number:
 2
 
 Group Members:
-17201094	Mashuk Arefin Pranjol
-18101213	Jahidul Hasan
-18301001	Farhin Rahman
-18301007	Saiadul Arfain
-19101350	Bushra Yesmeen Anika
-20101214	Tanjib Ahmed
-20101298	Ehsanur Rahman Rhythm
-20141003	Rajvir Ahmed Shuvo
-20141046	Md. Abdullah Al Masum Anas
+17201094 Mashuk Arefin Pranjol
+18101213 Jahidul Hasan
+18301001 Farhin Rahman
+18301007 Saiadul Arfain
+19101350 Bushra Yesmeen Anika
+20101214 Tanjib Ahmed
+20101298 Ehsanur Rahman Rhythm
+20141003 Rajvir Ahmed Shuvo
+20141046 Md. Abdullah Al Masum Anas
