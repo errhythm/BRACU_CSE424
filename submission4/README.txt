@@ -5,7 +5,7 @@ Conference submitted paper / paper submission / login Link:
 
 
 Paper title:
-A comparison of the image creation systems for automobiles using Deep Convolutional Generative Adversarial Networks and Vehicle Synthesis Generative Adversarial Networks.
+Bengali Speech Recognition: An Overview
 
 Paper presentation (anyone can view without login):
 
