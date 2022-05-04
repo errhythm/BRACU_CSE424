@@ -17,10 +17,10 @@ Paper submission ID: (received) from conference/workshop
 
 
 Conference Name:
-
+16TH INTERNATIONAL CONFERENCE ON WEB AND SOCIAL MEDIA
 
 Conference URL:
-
+https://www.icwsm.org/2022/index.html/
 
 Group Number:
 2
