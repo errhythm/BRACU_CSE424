@@ -1,5 +1,5 @@
 Unlisted youtube video:
-
+https://www.youtube.com/watch?v=gqw6sNJAMsM
 
 Conference submitted paper / paper submission / login Link:
 
@@ -8,7 +8,7 @@ Paper title:
 Bengali Speech Recognition: An Overview
 
 Paper presentation (anyone can view without login):
-
+https://docs.google.com/presentation/d/1dW2LN41d78X-Jl9VBw9hd8p1lBgNWbk3RgmlYKWj7Co/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
 
