@@ -2,7 +2,7 @@ Unlisted youtube video:
 https://www.youtube.com/watch?v=gqw6sNJAMsM
 
 Conference submitted paper / paper submission / login Link:
-
+https://easychair.org/my/conference?conf=iicaiet2022
 
 Paper title:
 Bengali Speech Recognition: An Overview
@@ -11,16 +11,16 @@ Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1dW2LN41d78X-Jl9VBw9hd8p1lBgNWbk3RgmlYKWj7Co/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
-
+05 May 2022
 
 Paper submission ID: (received) from conference/workshop
-
+12
 
 Conference Name:
-16TH INTERNATIONAL CONFERENCE ON WEB AND SOCIAL MEDIA
+IICAIET2022 (4th IEEE International Conference on Artificial Intelligence in Engineering and Technology)
 
 Conference URL:
-https://www.icwsm.org/2022/index.html/
+http://iicaiet.ieeesabah.org/
 
 Group Number:
 2
