@@ -8,8 +8,8 @@
 
 | **Submission No.** | Link |
 | ----------- | ----------- |
-| Submission 1 | [Click Here](https://github.com/errhythm/CSE424/tree/main/submission1) |
-| Submission 2 | [Click Here](https://github.com/errhythm/CSE424/tree/main/submission2) |
-| Submission 3 | [Click Here](https://github.com/errhythm/CSE424/tree/main/submission3) |
-| Submission 4 | [Click Here](https://github.com/errhythm/CSE424/tree/main/submission4) |
+| Submission 1 | [Click Here](https://github.com/errhythm/BRACU_CSE424/tree/main/submission1) |
+| Submission 2 | [Click Here](https://github.com/errhythm/BRACU_CSE424/tree/main/submission2) |
+| Submission 3 | [Click Here](https://github.com/errhythm/BRACU_CSE424/tree/main/submission3) |
+| Submission 4 | [Click Here](https://github.com/errhythm/BRACU_CSE424/tree/main/submission4) |
 
